@@ -1,0 +1,5 @@
+1080 2160 23 1
+c 1 0 part0 #000000
+c 1 0 part1 #2CA7DF
+c 1 100 part2 #2CA7DF
+p 0 0 part3 #2CA7DF
